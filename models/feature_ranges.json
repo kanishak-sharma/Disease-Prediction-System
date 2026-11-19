@@ -1,0 +1,693 @@
+{
+  "ckd": {
+    "Age": {
+      "min": 2,
+      "max": 90,
+      "median": 54.5,
+      "p10": 28,
+      "p90": 71
+    },
+    "BloodPressure": {
+      "min": 50,
+      "max": 180,
+      "median": 80,
+      "p10": 60,
+      "p90": 90
+    },
+    "SpecificGravity": {
+      "min": 1.005,
+      "max": 1.025,
+      "median": 1.02,
+      "p10": 1.01,
+      "p90": 1.025
+    },
+    "Albumin": {
+      "min": 0,
+      "max": 5,
+      "median": 0,
+      "p10": 0,
+      "p90": 3
+    },
+    "Sugar": {
+      "min": 0,
+      "max": 5,
+      "median": 0,
+      "p10": 0,
+      "p90": 2
+    },
+    "RedBloodCells": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "PusCells": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "PusCellClumps": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Bacteria": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 0
+    },
+    "BloodGlucoseRandom": {
+      "min": 22,
+      "max": 490,
+      "median": 121,
+      "p10": 86.3,
+      "p90": 254.4
+    },
+    "BloodUrea": {
+      "min": 1.5,
+      "max": 241,
+      "median": 42,
+      "p10": 19,
+      "p90": 113.6
+    },
+    "SerumCreatinine": {
+      "min": 0.4,
+      "max": 18.1,
+      "median": 1.25,
+      "p10": 0.6,
+      "p90": 6.5
+    },
+    "Sodium": {
+      "min": 104,
+      "max": 163,
+      "median": 138,
+      "p10": 131,
+      "p90": 146
+    },
+    "Potassium": {
+      "min": 2.5,
+      "max": 7.6,
+      "median": 4.4,
+      "p10": 3.5,
+      "p90": 5.2
+    },
+    "Hemoglobin": {
+      "min": 3.1,
+      "max": 17.8,
+      "median": 12.6,
+      "p10": 8.6,
+      "p90": 16.2
+    },
+    "PackedCellVolume": {
+      "min": 9,
+      "max": 54,
+      "median": 40,
+      "p10": 27,
+      "p90": 50
+    },
+    "WhiteBloodCells": {
+      "min": 2200,
+      "max": 26400,
+      "median": 8000,
+      "p10": 5300,
+      "p90": 11390.0
+    },
+    "RedBloodCellsCount": {
+      "min": 2.1,
+      "max": 8,
+      "median": 4.8,
+      "p10": 3.36,
+      "p90": 6.1
+    },
+    "Hypertension": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Diabetes": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "CoronaryArteryDisease": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 0
+    },
+    "Appetite": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "PedalEdema": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Anemia": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    }
+  },
+  "liver": {
+    "Age": {
+      "min": 4,
+      "max": 90,
+      "median": 45,
+      "p10": 23,
+      "p90": 66
+    },
+    "Gender": {
+      "min": 0,
+      "max": 1,
+      "median": 1,
+      "p10": 0,
+      "p90": 1
+    },
+    "TotalBilirubin": {
+      "min": 0.4,
+      "max": 75,
+      "median": 1,
+      "p10": 0.7,
+      "p90": 7.86
+    },
+    "DirectBilirubin": {
+      "min": 0.1,
+      "max": 19.7,
+      "median": 0.3,
+      "p10": 0.1,
+      "p90": 4.08
+    },
+    "AlkalinePhosphatase": {
+      "min": 63,
+      "max": 2110,
+      "median": 208,
+      "p10": 150,
+      "p90": 511.4
+    },
+    "ALT": {
+      "min": 10,
+      "max": 2000,
+      "median": 35,
+      "p10": 18,
+      "p90": 140
+    },
+    "AST": {
+      "min": 10,
+      "max": 4929,
+      "median": 42,
+      "p10": 19,
+      "p90": 190
+    },
+    "TotalProteins": {
+      "min": 2.7,
+      "max": 9.6,
+      "median": 6.6,
+      "p10": 5.1,
+      "p90": 7.9
+    },
+    "Albumin": {
+      "min": 0.9,
+      "max": 5.5,
+      "median": 3.1,
+      "p10": 2,
+      "p90": 4.1
+    },
+    "AlbuminGlobulinRatio": {
+      "min": 0.3,
+      "max": 2.8,
+      "median": 0.93,
+      "p10": 0.546,
+      "p90": 1.308
+    }
+  },
+  "thyroid": {
+    "Age": {
+      "min": 1,
+      "max": 98,
+      "median": 54,
+      "p10": 24,
+      "p90": 76
+    },
+    "Sex": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "TSH": {
+      "min": 0,
+      "max": 530,
+      "median": 0.7,
+      "p10": 0,
+      "p90": 9.6
+    },
+    "T3": {
+      "min": 0,
+      "max": 10.2,
+      "median": 1.8,
+      "p10": 0.9,
+      "p90": 3
+    },
+    "TT4": {
+      "min": 2,
+      "max": 450,
+      "median": 104,
+      "p10": 63.3,
+      "p90": 162
+    },
+    "T4U": {
+      "min": 0,
+      "max": 2.21,
+      "median": 0.96,
+      "p10": 0.75,
+      "p90": 1.22
+    },
+    "FTI": {
+      "min": 0,
+      "max": 881,
+      "median": 107,
+      "p10": 71,
+      "p90": 165
+    },
+    "Goitre": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 0
+    },
+    "Tumor": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 0
+    },
+    "ThyroidSurgery": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 0
+    }
+  },
+  "diabetes": {
+    "Pregnancies": {
+      "min": 0,
+      "max": 17,
+      "median": 3,
+      "p10": 0,
+      "p90": 9
+    },
+    "Glucose": {
+      "min": 0,
+      "max": 199,
+      "median": 117,
+      "p10": 85,
+      "p90": 167
+    },
+    "BloodPressure": {
+      "min": 0,
+      "max": 122,
+      "median": 72,
+      "p10": 54,
+      "p90": 88
+    },
+    "SkinThickness": {
+      "min": 0,
+      "max": 99,
+      "median": 23,
+      "p10": 0,
+      "p90": 40
+    },
+    "Insulin": {
+      "min": 0,
+      "max": 846,
+      "median": 30.5,
+      "p10": 0,
+      "p90": 210
+    },
+    "BMI": {
+      "min": 0,
+      "max": 67.1,
+      "median": 32,
+      "p10": 23.6,
+      "p90": 41.5
+    },
+    "DiabetesPedigreeFunction": {
+      "min": 0.078,
+      "max": 2.42,
+      "median": 0.3725,
+      "p10": 0.165,
+      "p90": 0.8786
+    },
+    "Age": {
+      "min": 21,
+      "max": 81,
+      "median": 29,
+      "p10": 22,
+      "p90": 51
+    }
+  },
+  "heart": {
+    "age": {
+      "min": 29,
+      "max": 77,
+      "median": 55,
+      "p10": 42,
+      "p90": 66
+    },
+    "sex": {
+      "min": 0,
+      "max": 1,
+      "median": 1,
+      "p10": 0,
+      "p90": 1
+    },
+    "cp": {
+      "min": 0,
+      "max": 3,
+      "median": 1,
+      "p10": 0,
+      "p90": 2
+    },
+    "trestbps": {
+      "min": 94,
+      "max": 200,
+      "median": 130,
+      "p10": 110,
+      "p90": 152
+    },
+    "chol": {
+      "min": 126,
+      "max": 564,
+      "median": 240,
+      "p10": 188,
+      "p90": 308.8
+    },
+    "fbs": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "restecg": {
+      "min": 0,
+      "max": 2,
+      "median": 1,
+      "p10": 0,
+      "p90": 1
+    },
+    "thalach": {
+      "min": 71,
+      "max": 202,
+      "median": 153,
+      "p10": 116,
+      "p90": 176.6
+    },
+    "exang": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "oldpeak": {
+      "min": 0,
+      "max": 6.2,
+      "median": 0.8,
+      "p10": 0,
+      "p90": 2.8
+    },
+    "slope": {
+      "min": 0,
+      "max": 2,
+      "median": 1,
+      "p10": 1,
+      "p90": 2
+    },
+    "ca": {
+      "min": 0,
+      "max": 4,
+      "median": 0,
+      "p10": 0,
+      "p90": 2
+    },
+    "thal": {
+      "min": 0,
+      "max": 3,
+      "median": 2,
+      "p10": 2,
+      "p90": 3
+    }
+  },
+  "parkinsons": {
+    "Age": {
+      "min": 50,
+      "max": 89,
+      "median": 70,
+      "p10": 53,
+      "p90": 86
+    },
+    "Gender": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Ethnicity": {
+      "min": 0,
+      "max": 3,
+      "median": 0,
+      "p10": 0,
+      "p90": 3
+    },
+    "EducationLevel": {
+      "min": 0,
+      "max": 3,
+      "median": 1,
+      "p10": 0,
+      "p90": 3
+    },
+    "BMI": {
+      "min": 15.0083,
+      "max": 39.9999,
+      "median": 27.1846,
+      "p10": 17.4939,
+      "p90": 37.0791
+    },
+    "Smoking": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "AlcoholConsumption": {
+      "min": 0.0022,
+      "max": 19.9889,
+      "median": 10.0703,
+      "p10": 2.2238,
+      "p90": 17.9127
+    },
+    "PhysicalActivity": {
+      "min": 0.0042,
+      "max": 9.9953,
+      "median": 5.0316,
+      "p10": 1.1043,
+      "p90": 9.0453
+    },
+    "DietQuality": {
+      "min": 0.0,
+      "max": 9.9959,
+      "median": 4.8252,
+      "p10": 0.9277,
+      "p90": 8.914
+    },
+    "SleepQuality": {
+      "min": 4.0005,
+      "max": 9.9998,
+      "median": 6.9298,
+      "p10": 4.5411,
+      "p90": 9.4178
+    },
+    "FamilyHistoryParkinsons": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "TraumaticBrainInjury": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Hypertension": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Diabetes": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Depression": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Stroke": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 0
+    },
+    "SystolicBP": {
+      "min": 90,
+      "max": 179,
+      "median": 133,
+      "p10": 97.4,
+      "p90": 171
+    },
+    "DiastolicBP": {
+      "min": 60,
+      "max": 119,
+      "median": 91,
+      "p10": 66,
+      "p90": 113
+    },
+    "CholesterolTotal": {
+      "min": 150.0627,
+      "max": 299.9631,
+      "median": 228.5283,
+      "p10": 165.7966,
+      "p90": 286.4609
+    },
+    "CholesterolLDL": {
+      "min": 50.0228,
+      "max": 199.986,
+      "median": 126.8846,
+      "p10": 66.6821,
+      "p90": 186.1978
+    },
+    "CholesterolHDL": {
+      "min": 20.028,
+      "max": 99.9823,
+      "median": 59.3434,
+      "p10": 26.8279,
+      "p90": 92.6223
+    },
+    "CholesterolTriglycerides": {
+      "min": 50.1136,
+      "max": 399.975,
+      "median": 222.8025,
+      "p10": 82.543,
+      "p90": 365.561
+    },
+    "UPDRS": {
+      "min": 0.0284,
+      "max": 198.9536,
+      "median": 102.561,
+      "p10": 21.5109,
+      "p90": 178.8155
+    },
+    "MoCA": {
+      "min": 0.0212,
+      "max": 29.9701,
+      "median": 14.9636,
+      "p10": 3.04,
+      "p90": 26.9038
+    },
+    "FunctionalAssessment": {
+      "min": 0.0015,
+      "max": 9.9927,
+      "median": 4.9832,
+      "p10": 0.9612,
+      "p90": 9.0373
+    },
+    "Tremor": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Rigidity": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Bradykinesia": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "PosturalInstability": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "SpeechProblems": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "SleepDisorders": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    },
+    "Constipation": {
+      "min": 0,
+      "max": 1,
+      "median": 0,
+      "p10": 0,
+      "p90": 1
+    }
+  }
+}
