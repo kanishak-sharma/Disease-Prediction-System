@@ -21,6 +21,4 @@ streamlit run app.py
 | `train.py` | `python train.py` retrains all models into `models/` |
 | `csv/`, `models/` | Datasets and saved models |
 
-## Before you push
-Edit the `TEAM` list at the top of `views/about.py` with your teammates' names.
-Educational project only. Not medical advice.
+
