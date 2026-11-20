@@ -11,9 +11,9 @@ UNIVERSITY = "Bennett University"  # e.g. "Bennett University"
 GITHUB_URL = "https://github.com/kanishak-sharma/disease-management-system"
 TEAM = [  # (name, role)  -- add your teammates here
     ("Kanishak Sharma", "Front-end, UI, Team Management, Github Management"),
-    ("Shrestha Sharma", "Model Developer ,Model Trainer, Presentation, Project Lead "),
+    ("Shreshtha Sharma", "Model Developer ,Model Trainer, Presentation, Project Lead "),
     ("Rohan Singla", "Data Analyst, Model Evaluator "),
-    ("Bhaumik Sharma", "Backend Developer"),
+    ("Bhoumik Sharma", "Backend Developer"),
 ]
 # ----------------------------------------------------------------------
 
