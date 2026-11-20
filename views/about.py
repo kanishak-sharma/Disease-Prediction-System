@@ -10,8 +10,8 @@ COURSE = "Systematic Machine Learning"
 UNIVERSITY = "Bennett University"  # e.g. "Bennett University"
 GITHUB_URL = "https://github.com/kanishak-sharma/disease-management-system"
 TEAM = [  # (name, role)  -- add your teammates here
-    ("Kanishak Sharma", "Front-end, UI, Team Management, Github Management"),
     ("Shreshtha Sharma", "Model Developer ,Model Trainer, Presentation, Project Lead "),
+    ("Kanishak Sharma", "Front-end, UI, Team Management, Github Management"),
     ("Rohan Singla", "Data Analyst, Model Evaluator "),
     ("Bhoumik Sharma", "Backend Developer"),
 ]
